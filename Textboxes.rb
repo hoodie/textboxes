@@ -1,7 +1,7 @@
 # encoding: utf-8
 require 'paint'
 
-class TableBox
+class Textboxes
 
   attr_writer :top, :bottom, :splitter,
     :padding_horizontal,
