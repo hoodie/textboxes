@@ -14,5 +14,5 @@ Gem::Specification.new do |s|
   s.files = ['lib/textboxes.rb', 'lib/textboxes/version.rb']
   s.extra_rdoc_files = ["README.md", "LICENSE.md"]
   s.license = 'GPL'
-  s.add_runtime_dependency 'paint', "~> 0.8", ">= 0.8.7"
+  s.add_runtime_dependency 'paint', '~> 1.0', '>= 1.0.0'
 end
